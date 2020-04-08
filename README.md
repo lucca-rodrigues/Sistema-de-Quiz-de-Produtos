@@ -1,6 +1,6 @@
 
 <h4 align="center">
-<img src="screenshot/screenshot.JPG" /><br>
+<img src="screenshot/screenshot.JPG" style="width:100%"/><br>
  <b>Sistema de Quiz</b> 🦸‍♂️
 </h4>
 
